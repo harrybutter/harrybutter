@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hyunbin
-- 👀 I’m interested in game development
+- 👀 I’m interested in game development/machine learning
 - 🌱 I’m currently learning Python
 - 📫 How to reach me riuhoot16@naver.com
 
