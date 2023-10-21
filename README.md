@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hyunbin
 - 👀 I’m interested in game development/machine learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python/Haskell
 - 📫 How to reach me riuhoot16@naver.com
 
 <!---
